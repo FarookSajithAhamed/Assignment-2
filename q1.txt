@@ -1,0 +1,7 @@
+
+1. Create a repository for your Team Software Project 
+https://github.com/FarookSajithAhamed/HospitalManagementSystem.git
+
+2. Invite your teammates 
+
+3. Paste your link in below question

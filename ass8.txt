@@ -1,0 +1,68 @@
+Try these and copy your command and message, paste it in file and submit. you should include these two repository links in the file. 
+
+Q1. 
+
+1. Create a repository for your Team Software Project 
+https://github.com/FarookSajithAhamed/HospitalManagementSystem.git
+
+2. Invite your teammates 
+
+3. Paste your link in below question
+
+
+
+Q2. Answer each question 
+
+1. Create a repository named as “Assignment 2” in github with Readme.md file, Questions must be paste in the readme file.
+https://github.com/FarookSajithAhamed/Assignment-2.git
+
+
+ 2. Clone your repository. 
+$ git clone https://github.com/FarookSajithAhamed/Assignment-2.git
+Cloning into 'Assignment-2'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+
+3. Add the text file that should have the answer of Q1. 
+
+
+4. Add another file to do the following. 
+
+5. Create another branch . 
+$ git branch newbranch
+
+
+6. Make changes to your files. 
+
+
+7. see if the file change is detected with git status. 
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ass8.txt
+        q1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+8. stage the changes with git add . 
+
+
+9. check that the add did what you expected with git status. 
+
+10. make the commit with git commit. 
+
+11. Write a meaningful commit message (e.g. "Answers question 1"). 
+
+12. check that your working directory is clean with git status. 
+
+13. check that your commit succeeded as expected with git log 
+
+14. Push your code up to a github repository.
